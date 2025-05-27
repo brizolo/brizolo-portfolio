@@ -38,7 +38,7 @@
 - Power BI  
 - Python  
 - JavaScript  
-- C++ (OOP)  
+- C++, OOP  
 - SQL  
 - R  
 - UML, BPMN, ArchiMate  

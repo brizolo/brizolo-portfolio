@@ -7,7 +7,7 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
 **La Salle - Universitat Ramon Llull**  
 *Bachelor in Business Intelligence & Data Analytics*  
@@ -23,7 +23,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Client Database Analysis Project – FireVolt Startup**  
 📍 Spain — *Feb 2024 – Apr 2024*
@@ -33,7 +33,7 @@
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 - Power BI  
 - Python  
@@ -47,7 +47,7 @@
 
 ---
 
-## 🗣️ Languages
+##  Languages
 
 - 🇷🇺 Russian – C2  
 - 🇬🇧 English – C2  
@@ -55,7 +55,7 @@
 
 ---
 
-## 🧪 Projects
+##  Projects
 
 ### 🔹 C++: Hangman Game
 Developed using OOP and class methods.
@@ -68,7 +68,7 @@ Built a regression model using service attributes to predict fare.
 
 ---
 
-## 📚 Courses
+##  Courses
 
 - **Stepik** – Introduction to Programming C++  
 - **Udemy** – Master SQL for Data Science  
